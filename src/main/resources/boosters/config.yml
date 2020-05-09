@@ -1,0 +1,58 @@
+1:
+  type: sell
+  boost-amount: 0.25 # this will be stacked with pets
+  name: '&6&lSELL BOOSTER &7&o((&c&o{minutes} minutes&7, &c&o{seconds} seconds&7&o))'
+  material: hdb-22487
+  data: 0
+  lore:
+    - ''
+    - '&eBoosts all backpack sales by &l+25%&7.'
+    - ''
+    - '&5Length&7| &d&l{days} D&7, &d&l{hours} H&7, &d&l{minutes} M&7, &d&l{seconds} S&7.'
+    - ''
+    - '&7&o((Right click to activate))'
+  enchantments:
+    - lure:1
+  item-flags:
+    - hide_enchants
+  activation:
+    sound:
+      enabled: true
+      type: 'villager_yes'
+      volume: 1
+      pitch: 1
+  expiry:
+    sound:
+      enabled: true
+      type: 'villager_no'
+      volume: 1
+      pitch: 1
+2:
+  type: token
+  boost-amount: 2 # 2 additional tokens
+  name: '&6&lTOKEN BOOSTER &7&o((&c&o{minutes} minutes&7, &c&o{seconds} seconds&7&o))'
+  material: hdb-1088
+  data: 0
+  lore:
+    - ''
+    - '&eBoosts all token drops by &lx 2&7.'
+    - ''
+    - '&5Length&7| &d&l{days} D&7, &d&l{hours} H&7, &d&l{minutes} M&7, &d&l{seconds} S&7.'
+    - ''
+    - '&7&o((Right click to activate))'
+  enchantments:
+    - lure:1
+  item-flags:
+    - hide_enchants
+  activation:
+    sound:
+      enabled: true
+      type: 'villager_yes'
+      volume: 1
+      pitch: 1
+  expiry:
+    sound:
+      enabled: true
+      type: 'villager_no'
+      volume: 1
+      pitch: 1

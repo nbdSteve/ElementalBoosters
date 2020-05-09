@@ -1,0 +1,5 @@
+command:
+  gui: boosters.gui
+  help: boosters.help
+  reload: boosters.reload
+  give: boosters.give

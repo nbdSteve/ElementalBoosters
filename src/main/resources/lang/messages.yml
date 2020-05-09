@@ -1,0 +1,23 @@
+reload:
+  - '&5&lBoosters &f>> &7You have successfully reloaded the plugin.'
+
+help:
+  - '&5&lBoosters &f>> &7Please contact nbdSteve#0583 on discord for command, permission and configuration help.'
+
+booster-active:
+  - '&5&lBoosters &f>> &7Unable to activate booster, you already have a &6{booster-type} &7booster active.'
+
+sell-booster-activation:
+  - '&5&lBoosters &f>> &7You have successfully activated a &e+{boost}% &6SELL &7booster, it will expire in &e{days} D&7, &e{hours} H&7, &e{minutes} M&7, &e{seconds} S&7.'
+
+token-booster-activation:
+  - '&5&lBoosters &f>> &7You have successfully activated a &e+{boost} &7tokens &6TOKEN &7booster, it will expire in &e{days} D&7, &e{hours} H&7, &e{minutes} M&7, &e{seconds} S&7.'
+
+booster-expire:
+  - '&5&lBoosters &f>> &7Your &6{booster-type} &7booster has expired, you may now activate another.'
+
+give-giver:
+  - '&5&lBoosters &f>> &7You have given &6{player} &7a &6{booster-type} &7booster.'
+
+give-receiver:
+  - '&5&lBoosters &f>> &7You have received a &6{booster-type} &7booster.'

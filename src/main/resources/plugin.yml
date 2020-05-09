@@ -1,0 +1,13 @@
+name: ElementalBoosters
+version: ${project.version}
+main: gg.steve.elemental.booster.ElementalBoosters
+api-version: 1.13
+prefix: Boosters
+authors: [stevegoodhill]
+softdepend:
+  - HeadDatabase
+description: Plugin that involves money and token boosters for ElementalMC
+commands:
+  booster:
+    usage: /<command>
+    description: Opens the booster gui.

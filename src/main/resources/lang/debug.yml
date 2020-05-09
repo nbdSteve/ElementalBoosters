@@ -1,0 +1,20 @@
+only-players-accessible:
+  - '&5&lBoosters &4(&c&lERROR&4) &f>> &7Only players can use that command, please go in-game and try again.'
+
+insufficient-permission:
+  - '&5&lBoosters &4(&c&lERROR&4) &f>> &7You do not have permission (&6{node}&7) to use that.'
+
+target-not-online:
+  - '&5&lBoosters &4(&c&lERROR&4) &f>> &7The target player must be online in order to complete that action.'
+
+invalid-number-of-arguments:
+  - '&5&lBoosters &4(&c&lERROR&4) &f>> &7The number of arguments you entered is incorrect.'
+
+invalid-command:
+  - '&5&lBoosters &4(&c&lERROR&4) &f>> &7The command you entered does not exist.'
+
+invalid-booster:
+  - '&5&lBoosters &4(&c&lERROR&4) &f>> &7The booster id your entered does not exist.'
+
+invalid-time:
+  - '&5&lBoosters &4(&c&lERROR&4) &f>> &7Please enter a valid time duration, this must be an integer.'

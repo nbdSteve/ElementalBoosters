@@ -1,0 +1,260 @@
+gui:
+  name: "&b&l{player}'s BOOSTERS"
+  type: none
+  size: 27
+  1:
+    slot: 10
+    action: none
+    name: '&b&lBOOSTERS'
+    material: hdb-30163
+    data: 0
+    lore:
+      - ''
+      - '&7Boosters can be obtained from the store.'
+      - ''
+    enchantments:
+    item-flags:
+      - hide_attributes
+  12:
+    slot: 12
+    action: none
+    booster-item: true
+    booster-type: SELL
+  13:
+    slot: 13
+    action: none
+    booster-item: true
+    booster-type: TOKEN
+  27:
+    slot: 26
+    action: close
+    name: '&c&lClose'
+    material: hdb-187
+    data: 0
+    lore:
+      - '&7'
+      - '&7&o((left click to close this gui))'
+      - '&7'
+    enchantments:
+    item-flags:
+      - hide_attributes
+  6:
+    slot: 0
+    action: none
+    name: '&7'
+    material: stained_glass_pane
+    data: 10
+    lore:
+      - ''
+    enchantments:
+    item-flags:
+      - hide_attributes
+  7:
+    slot: 2
+    action: none
+    name: '&7'
+    material: stained_glass_pane
+    data: 10
+    lore:
+      - ''
+    enchantments:
+    item-flags:
+      - hide_attributes
+  8:
+    slot: 4
+    action: none
+    name: '&7'
+    material: stained_glass_pane
+    data: 10
+    lore:
+      - ''
+    enchantments:
+    item-flags:
+      - hide_attributes
+  9:
+    slot: 6
+    action: none
+    name: '&7'
+    material: stained_glass_pane
+    data: 10
+    lore:
+      - ''
+    enchantments:
+    item-flags:
+      - hide_attributes
+  10:
+    slot: 8
+    action: none
+    name: '&7'
+    material: stained_glass_pane
+    data: 10
+    lore:
+      - ''
+    enchantments:
+    item-flags:
+      - hide_attributes
+  14:
+    slot: 18
+    action: none
+    name: '&7'
+    material: stained_glass_pane
+    data: 10
+    lore:
+      - ''
+    enchantments:
+    item-flags:
+      - hide_attributes
+  15:
+    slot: 20
+    action: none
+    name: '&7'
+    material: stained_glass_pane
+    data: 10
+    lore:
+      - ''
+    enchantments:
+    item-flags:
+      - hide_attributes
+  16:
+    slot: 22
+    action: none
+    name: '&7'
+    material: stained_glass_pane
+    data: 10
+    lore:
+      - ''
+    enchantments:
+    item-flags:
+      - hide_attributes
+  17:
+    slot: 24
+    action: none
+    name: '&7'
+    material: stained_glass_pane
+    data: 10
+    lore:
+      - ''
+    enchantments:
+    item-flags:
+      - hide_attributes
+  18:
+    slot: 1
+    action: none
+    name: '&7'
+    material: stained_glass_pane
+    data: 0
+    lore:
+      - ''
+    enchantments:
+    item-flags:
+      - hide_attributes
+  19:
+    slot: 3
+    action: none
+    name: '&7'
+    material: stained_glass_pane
+    data: 0
+    lore:
+      - ''
+    enchantments:
+    item-flags:
+      - hide_attributes
+  20:
+    slot: 5
+    action: none
+    name: '&7'
+    material: stained_glass_pane
+    data: 0
+    lore:
+      - ''
+    enchantments:
+    item-flags:
+      - hide_attributes
+  21:
+    slot: 7
+    action: none
+    name: '&7'
+    material: stained_glass_pane
+    data: 0
+    lore:
+      - ''
+    enchantments:
+    item-flags:
+      - hide_attributes
+  22:
+    slot: 9
+    action: none
+    name: '&7'
+    material: stained_glass_pane
+    data: 0
+    lore:
+      - ''
+    enchantments:
+    item-flags:
+      - hide_attributes
+  2:
+    slot: 11
+    action: none
+    name: '&7'
+    material: stained_glass_pane
+    data: 0
+    lore:
+      - ''
+    enchantments:
+    item-flags:
+      - hide_attributes
+  23:
+    slot: 17
+    action: none
+    name: '&7'
+    material: stained_glass_pane
+    data: 0
+    lore:
+      - ''
+    enchantments:
+    item-flags:
+      - hide_attributes
+  24:
+    slot: 19
+    action: none
+    name: '&7'
+    material: stained_glass_pane
+    data: 0
+    lore:
+      - ''
+    enchantments:
+    item-flags:
+      - hide_attributes
+  25:
+    slot: 21
+    action: none
+    name: '&7'
+    material: stained_glass_pane
+    data: 0
+    lore:
+      - ''
+    enchantments:
+    item-flags:
+      - hide_attributes
+  26:
+    slot: 23
+    action: none
+    name: '&7'
+    material: stained_glass_pane
+    data: 0
+    lore:
+      - ''
+    enchantments:
+    item-flags:
+      - hide_attributes
+  28:
+    slot: 25
+    action: none
+    name: '&7'
+    material: stained_glass_pane
+    data: 0
+    lore:
+      - ''
+    enchantments:
+    item-flags:
+      - hide_attributes
